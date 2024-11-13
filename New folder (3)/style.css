@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-image: url(pexels-fwstudio-33348-129731.jpg); */
+}
+
+.container{
+    border: 2px solid black;
+    margin-top: 50px;
+    border-radius: 20px;
+    width: 300px;
+    height: 550px;
+    display: flex;
+    backdrop-filter: blur(degree-of-blur);
+
+}
+
+h2{
+    margin-top: 10px;
+}
+.custom-button{
+    width: 265px;
+    margin-top: 25px;
+    
+}
+.para{
+    padding-top: 20px;
+    color: gray;
+}
+.anchor{
+    text-decoration: none;
+}
